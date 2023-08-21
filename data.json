@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Node",
+        "description": "Tut#0 description"
+    },
+    {
+        "title": "Node Basics",
+        "description": "Tut#1 description"
+    },
+    {
+        "title": "MySQL Basics",
+        "description": "Tut#2 description"
+    },
+    {
+        "title": "Node Advanced",
+        "description": "Tut#3 description"
+    },
+    {
+        "title": "MySQL Advanced",
+        "description": "Tut#4 description"
+    },
+    {
+        "title": "Restful APIs",
+        "description": "Tut#5 description"
+    },
+    {
+        "title": "Express",
+        "description": "Tut#6 description"
+    }
+]
