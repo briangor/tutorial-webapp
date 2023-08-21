@@ -1,0 +1,33 @@
+{
+  "name": "tutorial-webapp",
+  "version": "1.0.0",
+  "description": "Node.js Restful CRUD API with Node, Express and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briangor/tutorial-webapp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "restapi"
+  ],
+  "author": "briangor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briangor/tutorial-webapp/issues"
+  },
+  "homepage": "https://github.com/briangor/tutorial-webapp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
