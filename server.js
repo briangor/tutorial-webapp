@@ -8,7 +8,7 @@ dotenv.config();
 
 const corsOptions = {
     origin: ["http://127.0.0.1:8081", "http://localhost:3000", process.env.PROD_URL]
-};s
+};
 
 app.use(cors(corsOptions));
 
